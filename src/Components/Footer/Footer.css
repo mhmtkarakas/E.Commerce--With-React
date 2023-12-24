@@ -34,6 +34,12 @@
     padding-bottom: 6px;
     background: #fbfbfb;
     border: 1px solid #ebebeb;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.footer-icons-container:hover{
+    transform: scale(1.15);
+    transition: .6s;
 }
 .footer-copyright{
     display: flex;
